@@ -1,0 +1,14 @@
+{ "columns":8,
+ "image":"desert.png",
+ "imageheight":199,
+ "imagewidth":265,
+ "margin":1,
+ "name":"desert",
+ "spacing":1,
+ "tilecount":48,
+ "tiledversion":"1.2.4",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.2
+}

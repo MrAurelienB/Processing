@@ -1,0 +1,5 @@
+
+
+PImage.get() si pas performant, suavegarder les PImage de chaque Tile.
+
+construire automatiquement le chemin du fichier de log

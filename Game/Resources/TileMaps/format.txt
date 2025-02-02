@@ -1,0 +1,7 @@
+{
+"tilesets":[
+    {"firstgid":1,"source":"tileSet_1.json"}, 
+    {"firstgid":49,"source":"tileSet_2.json"}],
+"":[
+    {""}]
+}

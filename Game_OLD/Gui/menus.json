@@ -1,0 +1,17 @@
+[
+    {
+        "name":"bar_menu",
+        "width":276,
+        "height":71,
+        "x":0,
+        "y":1129,
+        "backgroundColor":[255,255,255],
+        "isHidden":false,
+        "menuToShow":null,
+        "menuToHide":null,
+        "buttons":
+            [
+
+            ]
+    }
+]

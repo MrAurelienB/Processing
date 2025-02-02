@@ -1,0 +1,14 @@
+		 "position":{
+			"x":,
+			"y":,
+			"xMiddleRatio":,
+			"yMiddleRatio":
+		 },
+		 "size":{
+			"width":,
+			"height":,
+			"widthRatio":,
+			"heightRatio":
+		 },
+		 
+// if no position or size, use the one of the parent object.

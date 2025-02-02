@@ -1,0 +1,8 @@
+Initialize
+   Screen size 1200 x 900
+   Initialize engine
+      Created tile set image: ../TileSets/desert.json
+      Created tile map: Resources/TileMaps/mainMap.json
+   Done
+Done
+Exit
